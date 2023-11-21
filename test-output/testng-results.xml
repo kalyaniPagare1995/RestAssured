@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-21T17:55:18 IST" name="Default suite" finished-at="2023-11-21T17:55:21 IST" duration-ms="2601">
+    <groups>
+    </groups>
+    <test started-at="2023-11-21T17:55:18 IST" name="Default test" finished-at="2023-11-21T17:55:21 IST" duration-ms="2601">
+      <class name="test.Test_Put_Patch">
+        <test-method signature="test_4_put()[pri:0, instance:test.Test_Put_Patch@201a4587]" started-at="2023-11-21T17:55:18 IST" name="test_4_put" finished-at="2023-11-21T17:55:20 IST" duration-ms="1843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_4_put -->
+        <test-method signature="test_5_patch()[pri:0, instance:test.Test_Put_Patch@201a4587]" started-at="2023-11-21T17:55:20 IST" name="test_5_patch" finished-at="2023-11-21T17:55:21 IST" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_5_patch -->
+      </class> <!-- test.Test_Put_Patch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
